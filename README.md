@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @davidshindra
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking to collaborate on Django
+- 📫 How to reach me davidshindra.dev@gmail.com
